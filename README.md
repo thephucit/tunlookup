@@ -1,8 +1,8 @@
 # Tun Lookup application
 
-[tun-app.github.io](https://tun-app.github.io) Translation current text selected
+[tun-app.github.io](https://tun-application.github.io/) Translation current text selected
 
-<img src="https://raw.githubusercontent.com/tun-app/tun-lookup/master/app-screen.png" alt="preview"/>
+<img src="https://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.pnghttps://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.png" alt="preview"/>
 
 ### Keyboard shortcuts
 
@@ -12,7 +12,7 @@ Mac OS: `Command+C Command+D`
 
 ## Download
 
-You can manually download the latest release [here](https://github.com/tun-app/tun-lookup/releases/).
+You can manually download the latest release [here](https://github.com/tun-application/Tunlookup/releases/).
 
 ## License
 
