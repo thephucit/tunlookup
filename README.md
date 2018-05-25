@@ -1,6 +1,6 @@
 # Tun Lookup application
 
-[tun-application.github.io](https://tun-application.github.io/) Translation current text selected
+[tun-application.github.io](https://tun-application.github.io/) translates selected texts
 
 <img src="https://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.pnghttps://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.png" alt="preview"/>
 
