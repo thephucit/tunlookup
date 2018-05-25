@@ -1,6 +1,7 @@
-# Tun Lookup application
+# Tunlookup application
 
-[tun-application.github.io](https://tun-application.github.io/) translates selected texts
+translates selected text with a keystroke.
+[Home page](https://tun-application.github.io/) 
 
 <img src="https://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.pnghttps://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.png" alt="preview"/>
 
