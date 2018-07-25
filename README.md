@@ -7,6 +7,7 @@ Translate selected text with a keystroke [tunlookup.com](https://tunlookup.com)
 
 ## Keyboard shortcuts
 > Window Ctrl + C + Q
+
 > Mac OS ⌘ + C + D
 
 
