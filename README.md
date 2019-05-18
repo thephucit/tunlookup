@@ -4,11 +4,29 @@ Translate selected text with a keystroke [tunlookup.com](https://tunlookup.com)
 
 <img src="https://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.pnghttps://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.png" alt="preview"/>
 
-
 ## Keyboard shortcuts
-> Window Ctrl + C + Q
 
-> Mac OS ⌘ + C + D
+**Keyboard shortcuts 1**
+
+(Version 3.0.3 and earlier)
+
+Window: **Ctrl + C**    **Ctrl + Q**
+
+MacOS:  **⌘ + C**    **⌘ + D**
+
+**Keyboard shortcuts 2**
+
+(Version 3.0.4 onwards)
+
+Window: **Ctrl + Q**
+
+MacOS:  **⌘ + D**
+
+From version **3.0.4** onwards, If you want to use **Keyboard shortcuts 2**
+
+you must allow Tunlookup to control your computer (in Security & Privacy)
+
+![Setting](https://i.imgur.com/rSaeigq.png)
 
 
 ## Management your history
