@@ -2,7 +2,7 @@
 
 Translate selected text with a keystroke [tunlookup.com](https://tunlookup.com)
 
-<img src="https://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.pnghttps://raw.githubusercontent.com/tun-application/Tunlookup/master/app-screen.png" alt="preview"/>
+<img src="https://i.imgur.com/9puq2Fb.png" alt="preview"/>
 
 ## Keyboard shortcuts
 
