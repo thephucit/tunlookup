@@ -2,7 +2,7 @@
 
 Translate selected text with a keystroke [thephucit.github.io/tunlookup](https://thephucit.github.io/tunlookup/)
 
-<img src="https://private-user-images.githubusercontent.com/13312098/382176207-dac05f5f-c971-4c6a-bc54-e830b6b9cda7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2OTczMDgsIm5iZiI6MTczMDY5NzAwOCwicGF0aCI6Ii8xMzMxMjA5OC8zODIxNzYyMDctZGFjMDVmNWYtYzk3MS00YzZhLWJjNTQtZTgzMGI2YjljZGE3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA0VDA1MTAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlNDkwODgzMjliZDFlNDA1MjU2YTJiOTA1MzYzZGIyOGNiN2RlYzYzZDMyMTUzYjhiNGJhOTFlNzUxYjU2NDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.V7jgIMw-4Iy7kCOI3RvMks5-yWRDhE0-an7L8y1-jBA" alt="preview"/>
+<img src="https://github.com/user-attachments/assets/dac05f5f-c971-4c6a-bc54-e830b6b9cda7" alt="preview"/>
 
 ## Keyboard shortcuts
 
