@@ -2,7 +2,7 @@
 
 Translate selected text with a keystroke [thephucit.github.io/tunlookup](https://thephucit.github.io/tunlookup/)
 
-<img src="https://github.com/user-attachments/assets/dac05f5f-c971-4c6a-bc54-e830b6b9cda7" alt="preview"/>
+<img src="https://github.com/user-attachments/assets/99842845-b8a2-48e0-9641-cb0aaf8cc035" alt="preview"/>
 
 ## Keyboard shortcuts
 
