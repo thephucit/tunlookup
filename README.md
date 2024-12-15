@@ -3,7 +3,8 @@
 Translate selected text with a keystroke [tunlookup.com](https://tunlookup.com)
 
 <img src="https://github.com/user-attachments/assets/99842845-b8a2-48e0-9641-cb0aaf8cc035" alt="preview"/>
-<img width="1033" alt="image" src="https://github.com/user-attachments/assets/6524d85e-01a7-4ff0-a467-e7429431b69d">
+
+<img width="1033" alt="hotkeys2" src="https://github.com/user-attachments/assets/74a4342f-69e8-4cc1-80ef-6b194637d308" />
 
 
 ## Keyboard shortcuts
